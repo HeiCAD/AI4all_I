@@ -1,9 +1,9 @@
 <img src="https://www.heicad.hhu.de/fileadmin/_processed_/4/9/csm_ai4all_KeyImage_Blob_Hexa_300px_f87b7be2a1.png"/>
 
 [![Intagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/heicad_hhu/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/HeiCAD_HHU)
-<a href="https://ki-campus.org/courses/kifueralle-hhu" style="width: 120px; height: 28px; background-color: #800080; padding: 2px; border-radius: 0px; display: inline-block;">
-  <img src="https://ki-campus.org/sites/default/files/color/kic_theme-ea158196/logo.svg" alt="Your Badge Alt Text">
+[![Twitter](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/HeiCAD_HHU)
+<a href="https://ki-campus.org/courses/kifueralle-hhu" style="width: 120px; height: 28px; background-color: #800080; padding: 2px; border-radius: 0px; display: inline-block; overflow: hidden;">
+  <img src="https://ki-campus.org/sites/default/files/color/kic_theme-ea158196/logo.svg" alt="Your Badge Alt Text" style="width: 100%; height: 100%;">
 </a>
 
 # KI Für Alle - Modul 1
