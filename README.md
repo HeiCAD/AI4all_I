@@ -68,11 +68,11 @@ Hier sind zwei einfache Möglichkeiten, wie du unser Repository herunterladen ka
 
 ## Herunterladen über HTTPS :bouquet: 
 
-Folge diesen Schritten, um das Repository über HTTPS zu klonen:
+Folge diesen Schritten, um das Repository über HTTPS zu downloaden:
 
 1. Kopiere den HTTPS-Link des Repositories: `https://github.com/HeiCAD/AI4all_I.git`.
 2. Öffne dein Terminal oder die Kommandozeile.
-3. Navigiere zu dem Ordner, in den du das Repository klonen möchtest.
+3. Navigiere zu dem Ordner, in den du das Repository downloaden möchtest.
 4. Führe den Befehl aus: `git clone https://github.com/HeiCAD/AI4all_I.git`.
 
 Und das war's schon! Du hast eine lokale Kopie des Repositories.
