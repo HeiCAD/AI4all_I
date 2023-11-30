@@ -83,7 +83,6 @@ Wenn du das Repository lieber als ZIP-Datei herunterladen möchtest, folge diese
 
 1. Gehe zu [GitHub](https://github.com/HeiCAD/AI4all_I/).
 2. Klicke auf den grünen Button `Code` und wähle `Download ZIP`. Alternativ kannst du das ZIP [hier](https://github.com/HeiCAD/AI4all_I/archive/refs/heads/main.zip) direkt downloaden.
-3. Alternativ kannst kannst du das ZIP [hier](https://github.com/HeiCAD/AI4all_I/archive/refs/heads/main.zip) downloaden.
 
 Entpacke die heruntergeladene ZIP-Datei, und schon bist du bereit!
 
