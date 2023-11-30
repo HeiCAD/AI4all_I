@@ -43,6 +43,8 @@ sollte die Versionsnummer angezeigt werden.
 
 ### Schritt 1: Git herunterladen :arrow_down: 
 
+> **_Hinweis:_** Du brauchst Git nur zu installieren, wenn du bereit bist, damit umzugehen. Ansonsten gehe weiter zu **Herunterladen als ZIP**.
+
 Lade Git von der offiziellen [Git-Website](https://git-scm.com/downloads) herunter.
 Wähle die passende Version für dein Betriebssystem aus.
 
