@@ -11,8 +11,8 @@
 Willkommen in unserem Repository für den ersten [KI für Alle](https://ki-campus.org/courses/kifueralle-hhu)-Kurs!
 
 Hier sind alle Materialien und Anleitungen für die verschiedenen Wochenabschnitte und Notebooks zu finden.
-Stellt sicher, dass ihr den Anweisungen folgt, damit ihr problemlos auf eurem eigenen Computer arbeiten könnt.
-Ihr habt auch die Möglichkeit, [Google Colab](https://colab.research.google.com/?hl=de) oder [Anaconda Cloud](https://anaconda.cloud) zu verwenden.
+Stell sicher, dass du den Anweisungen folgt, damit du problemlos auf deinem eigenen Computer arbeiten kannst.
+Du hast auch die Möglichkeit, [Google Colab](https://colab.research.google.com/?hl=de) oder [Anaconda Cloud](https://anaconda.cloud) zu verwenden.
 
 # Willkommen zu unserem Projekt!
 
